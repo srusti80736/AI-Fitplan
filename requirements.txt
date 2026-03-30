@@ -1,0 +1,11 @@
+altair
+pandas
+streamlit>=1.40.0
+huggingface_hub
+requests
+transformers
+torch
+sentencepiece
+python-dotenv
+pyjwt
+werkzeug
